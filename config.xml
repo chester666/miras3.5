@@ -6,10 +6,10 @@
         versionCode = "35200"
         android-versionCode="35200"
         version   = "3.5.2">
-    <name>Moodle</name>
+    <name>Miras</name>
 
     <description>
-        Moodle official app
+        Miras School official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
